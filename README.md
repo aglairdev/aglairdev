@@ -1,7 +1,6 @@
-> "Não se iluda porque a desilusão é mais cruel do que enxergar o mundo real."
->
-> — Srta. Bira
-
+<div align="center">
+  <img width="185" height="200" alt="flowey-gif" src="https://github.com/user-attachments/assets/0908db24-9496-4bbd-b274-9c678a3c257d" />
+</div>
 
 <table align="center">
   <tr>
